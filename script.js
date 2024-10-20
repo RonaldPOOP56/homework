@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
         localStorage.setItem('ssp', ssp.value)
         localStorage.setItem('maths', maths.value)
         localStorage.setItem('outschool', outschool.value)
-        localStorage.setItem('spanishacademy', spanishAcademy.value)
+        localStorage.setItem('spanishacademy', spanishacademy.value)
     }
     document.querySelector('button').onclick = save
 
