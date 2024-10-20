@@ -90,7 +90,7 @@ function codeDetection(code) {
 
 
     } else {
-        console.log('Fail');
+        console.log('Failed');
     }
     
 }
